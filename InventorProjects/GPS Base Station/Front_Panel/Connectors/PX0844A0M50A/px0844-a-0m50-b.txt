@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022019-044814";"";
+"REFERENCE";"PX0844-A-0M50-B";"";
+"TraceParts.PartTitle";"Data Connectors, Standard USB, PX0844-A-0M50-B";"";
+"TraceParts.InstanceId";"90-08022019-0448142N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Data Connectors, Standard USB, PX0844-A-0M50-B";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Bulgin";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BULGIN:90-08022019-044814";"";

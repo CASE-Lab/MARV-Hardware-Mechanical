@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-24042009-067390";"";
+"REFERENCE";"XB4 BA21";"";
+"TraceParts.PartTitle";"Unité de commande et de signalisation Ø 22 Harmony XB4 métallique - Bouton poussoir à impulsion sans marquage à poussoir affleurant - Produit complet";"";
+"TraceParts.InstanceId";"10-24042009-067390A0109BZG8AHJ1XWD1O8ISI8IX";"";
+"DESIGN";"Unité de commande et de signalisation Ø 22 Harmony XB4 métallique - Bouton poussoir à impulsion sans marquage à poussoir affleurant - Produit complet, XB4 BA21";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC:/F_SCHNEIDER/F_TELEMECANIQUE/F_TELEMECANIQUE.04/F_TELEMECANIQUE.04.010/F_TELEMECANIQUE.04.010.010/10-24042009-067390";"";

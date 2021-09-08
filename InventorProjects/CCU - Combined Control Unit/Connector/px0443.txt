@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022019-044227";"";
+"REFERENCE";"PX0443";"";
+"TraceParts.PartTitle";"Plastic Electrical Connector, panel mounting, front of panel mounting, 4 poles, 5 way crimp termination, 1A, 30V";"";
+"TraceParts.InstanceId";"90-08022019-0442272N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Plastic Electrical Connector, panel mounting, front of panel mounting, 4 poles, 5 way crimp termination, 1A, 30V";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Bulgin";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BULGIN:/F_BULGIN/BULGIN.010/BULGIN.010.010/BULGIN.010.010.020/BULGIN.010.010.020.010/BULGIN.010.010.020.010.020/90-08022019-044227";"";
